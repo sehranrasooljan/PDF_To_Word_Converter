@@ -26,8 +26,7 @@ pip3 install pdf2docx
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/Python-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/Python-original.svg" height="40" alt="javascript logo"  /> 
 </div>
 
 ###
