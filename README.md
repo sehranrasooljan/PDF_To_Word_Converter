@@ -5,9 +5,9 @@
 This Python tool makes life easier by quickly converting PDFs to Word/Docx format. Now you can effortlessly edit and access your documents with just a few clicks, adding a touch of simplicity to your workflow.
 <br>
 <h1> Pre requirements </h1> <br>
-1. Make sure Python is installed on your system.
+--> Make sure Python is installed on your system. <br>
 
-2. Open the terminal and install the 'pdf2docx' library with the command:
+--> Open the terminal and install the 'pdf2docx' library with the command: <br>
 
 ```bash
 pip3 install pdf2docx
@@ -19,27 +19,15 @@ pip3 install pdf2docx
 
 ###
 
-<p align="left">My name is Sehran Rasool Jan and I'm a Software Engineer, from the mesmerizing land Kashmir</p>
+<p align="left">I'm Sehran Rasool Jan, a Software Engineer from the mesmerizing landscapes of Kashmir.</p>
+
 
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/Python-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 
 ###
